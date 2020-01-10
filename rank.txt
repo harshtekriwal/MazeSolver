@@ -1,0 +1,11 @@
+harsh maze1 0
+harsh maze2 0
+harsh maze2 0
+harsh maze2 0
+harsh maze4 0
+harsh maze4 0
+tarush maze4 996000
+tarush maze5 993000
+tarush maze6 0
+rupam maze6 997000
+jatin maze6 0
